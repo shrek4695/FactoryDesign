@@ -1,0 +1,7 @@
+c:\users\skapoor\source\repos\Services\Services\obj\Debug\Services.csprojResolveAssemblyReference.cache
+c:\users\skapoor\source\repos\Services\Services\obj\Debug\Services.csproj.CoreCompileInputs.cache
+c:\users\skapoor\source\repos\Services\Services\bin\Debug\Services.exe.config
+c:\users\skapoor\source\repos\Services\Services\bin\Debug\Services.exe
+c:\users\skapoor\source\repos\Services\Services\bin\Debug\Services.pdb
+c:\users\skapoor\source\repos\Services\Services\obj\Debug\Services.exe
+c:\users\skapoor\source\repos\Services\Services\obj\Debug\Services.pdb
