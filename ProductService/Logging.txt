@@ -1,0 +1,179 @@
+Entered Main Method
+Call to GetDatabaseType Method
+Entered the File Handling Case
+Exiting the GetDatabaseType Method
+Call to GetProduct Method
+Entered Car Case
+Call to Car Product Constructor
+Exiting Car Product Constructor
+Exiting the GetProduct Method
+Call to Save Method of Car Product
+Exiting Save Method of Car Product
+Call to Book Method of Car Product
+Exiting Book Method Car Product
+Exiting the Main Method
+Entered Main Method
+Call to GetDatabaseType Method
+Entered the Sql Server Case
+Exiting the GetDatabaseType Method
+Call to GetProduct Method
+Entered Air Case
+Call to Air Product Constructor
+Exiting Air Product Constructor
+Exiting the GetProduct Method
+Call to Save Method of Air Product
+Exiting Save Method of Air Product
+Call to Book Method of Air Product
+Exiting Book Method Air Product
+Exiting the Main Method
+Entered Main Method
+Call to GetDatabaseType Method
+Entered the Sql Server Case
+Exiting the GetDatabaseType Method
+Call to GetProduct Method
+Entered Air Case
+Call to Air Product Constructor
+Exiting Air Product Constructor
+Exiting the GetProduct Method
+Call to Save Method of Air Product
+Exiting Save Method of Air Product
+Call to Book Method of Air Product
+Exiting Book Method Air Product
+Exiting the Main Method
+Entered Main Method
+Call to GetDatabaseType Method
+Entered the Sql Server Case
+Exiting the GetDatabaseType Method
+Call to GetProduct Method
+Entered Air Case
+Call to Air Product Constructor
+Exiting Air Product Constructor
+Exiting the GetProduct Method
+Call to Save Method of Air Product
+Exiting Save Method of Air Product
+Call to Book Method of Air Product
+Exiting Book Method Air Product
+Exiting the Main Method
+Entered Main Method
+Call to GetDatabaseType Method
+Entered the Sql Server Case
+Exiting the GetDatabaseType Method
+Call to GetProduct Method
+Entered Air Case
+Call to Air Product Constructor
+Exiting Air Product Constructor
+Exiting the GetProduct Method
+Call to Save Method of Air Product
+Entered Main Method
+Call to GetDatabaseType Method
+Entered the Sql Server Case
+Exiting the GetDatabaseType Method
+Call to GetProduct Method
+Entered Air Case
+Call to Air Product Constructor
+Exiting Air Product Constructor
+Exiting the GetProduct Method
+Call to Save Method of Air Product
+Entered Main Method
+Call to GetDatabaseType Method
+Entered the Sql Server Case
+Exiting the GetDatabaseType Method
+Call to GetProduct Method
+Entered Air Case
+Call to Air Product Constructor
+Exiting Air Product Constructor
+Exiting the GetProduct Method
+Call to Save Method of Air Product
+Exiting Save Method of Air Product
+Call to Book Method of Air Product
+Entered Main Method
+Call to GetDatabaseType Method
+Entered the Sql Server Case
+Exiting the GetDatabaseType Method
+Call to GetProduct Method
+Entered Air Case
+Call to Air Product Constructor
+Exiting Air Product Constructor
+Exiting the GetProduct Method
+Call to Save Method of Air Product
+Exiting Save Method of Air Product
+Call to Book Method of Air Product
+Exiting Book Method Air Product
+Exiting the Main Method
+Entered Main Method
+Call to GetDatabaseType Method
+Entered the Sql Server Case
+Exiting the GetDatabaseType Method
+Call to GetProduct Method
+Entered Air Case
+Call to Air Product Constructor
+Exiting Air Product Constructor
+Exiting the GetProduct Method
+Call to Save Method of Air Product
+Exiting Save Method of Air Product
+Call to Book Method of Air Product
+Exiting Book Method Air Product
+Exiting the Main Method
+Entered Main Method
+Call to GetDatabaseType Method
+Entered the Sql Server Case
+Exiting the GetDatabaseType Method
+Call to GetProduct Method
+Entered Air Case
+Call to Air Product Constructor
+Exiting Air Product Constructor
+Exiting the GetProduct Method
+Call to Save Method of Air Product
+Exiting Save Method of Air Product
+Call to Book Method of Air Product
+Exiting Book Method Air Product
+Exiting the Main Method
+Entered Main Method
+Call to GetDatabaseType Method
+Entered the Sql Server Case
+Exiting the GetDatabaseType Method
+Call to GetProduct Method
+Entered Air Case
+Call to Air Product Constructor
+Exiting Air Product Constructor
+Exiting the GetProduct Method
+Call to Save Method of Air Product
+Exiting Save Method of Air Product
+Call to Book Method of Air Product
+Exiting Book Method Air Product
+Exiting the Main Method
+Entered Main Method
+Call to GetDatabaseType Method
+Entered the File Handling Case
+Exiting the GetDatabaseType Method
+Call to GetProduct Method
+Entered Hotel Case
+Call to Hotel Product Constructor
+Call to GetFares Method of Hotel Strategy
+Exiting GetFares Method
+Exiting Hotel Product Constructor
+Exiting the GetProduct Method
+Call to Save Method of Hotel Product
+Exiting Save Method of Hotel Product
+Call to Book Method of Hotel Product
+Exiting Book Method Hotel Product
+Exiting the Main Method
+Entered Main Method
+Call to GetDatabaseType Method
+Entered the Sql Server Case
+Exiting the GetDatabaseType Method
+Call to GetProduct Method
+Entered Hotel Case
+Call to Hotel Product Constructor
+Call to GetFares Method of Hotel Strategy
+Exiting GetFares Method
+Exiting Hotel Product Constructor
+Exiting the GetProduct Method
+Call to Save Method of Hotel Product
+Call to Sql Database SaveTheProduct Method
+Exiting SaveTheProduct Method of Sql Database
+Exiting Save Method of Hotel Product
+Call to Book Method of Hotel Product
+Call to Sql Database BookTheProduct Method
+Exiting the BookTheProduct Method
+Exiting Book Method Hotel Product

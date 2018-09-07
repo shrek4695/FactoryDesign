@@ -1,0 +1,14 @@
+Product Type=Car
+Product Name=Honda
+Product Price=1000
+Booked=False
+Product Type=Car
+Product Name=Honda
+Booked=True
+Product Type=Hotel
+Product Name=cosmos
+Product Price=260
+Booked=False
+Product Type=Hotel
+Product Name=cosmos
+Booked=True
