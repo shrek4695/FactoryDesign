@@ -1,0 +1,14 @@
+C:\Users\Administrator\source\repos\ProductService\ProductService\bin\Debug\ProductService.exe.config
+C:\Users\Administrator\source\repos\ProductService\ProductService\bin\Debug\ProductService.exe
+C:\Users\Administrator\source\repos\ProductService\ProductService\bin\Debug\ProductService.pdb
+C:\Users\Administrator\source\repos\ProductService\ProductService\obj\Debug\ProductService.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\ProductService\ProductService\obj\Debug\ProductService.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\ProductService\ProductService\obj\Debug\ProductService.exe
+C:\Users\Administrator\source\repos\ProductService\ProductService\obj\Debug\ProductService.pdb
+C:\Users\skapoor\source\repos\ProductService\ProductService\bin\Debug\ProductService.exe.config
+C:\Users\skapoor\source\repos\ProductService\ProductService\bin\Debug\ProductService.exe
+C:\Users\skapoor\source\repos\ProductService\ProductService\bin\Debug\ProductService.pdb
+C:\Users\skapoor\source\repos\ProductService\ProductService\obj\Debug\ProductService.csprojResolveAssemblyReference.cache
+C:\Users\skapoor\source\repos\ProductService\ProductService\obj\Debug\ProductService.csproj.CoreCompileInputs.cache
+C:\Users\skapoor\source\repos\ProductService\ProductService\obj\Debug\ProductService.exe
+C:\Users\skapoor\source\repos\ProductService\ProductService\obj\Debug\ProductService.pdb
